@@ -1,5 +1,5 @@
 # ALURA---Challenge-Encriptador-de-Texto
-Este proyecto fue hecho para el challenge de ALURA "Encriptador de Texto". El proyecto consiste en una aplicación web simple para encriptar y desencriptar texto utilizando un cifrado básico.
+Este proyecto fue hecho para el challenge de ALURA "Encriptador de Texto". El proyecto consiste en una aplicación web simple para encriptar y desencriptar texto.
 
 El cifrado funciona de la siguiente manera:
 
